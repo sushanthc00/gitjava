@@ -1,7 +1,7 @@
 public class DemoGit {
 
-    public static void main(String[] args){
-        System.out.println("New World");
+    public static void main(Integer){
+        System.out.println(27);
 
 
     }
